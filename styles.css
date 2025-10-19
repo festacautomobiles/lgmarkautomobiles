@@ -19,7 +19,7 @@ body {
 h2{
     margin-left: 200px;
     margin-top:200px;
-    color:black;
+    color:white;
     font-size: 40px;
     
 }
@@ -44,7 +44,7 @@ nav ul li {
     border: none;
     border-radius: 2px;
     padding: 5px 12px;
-    background-color: gold;
+    background-color: brown;
     margin-right:50px;
     margin-left: -20px;
     margin-top: -5px;
@@ -52,11 +52,11 @@ nav ul li {
 }
 
 nav ul li a {
-    color: black;
+    color: white;
 }
 
 .price{
-    margin-top: 300px;
+    margin-top: 450px;
     align-items: center;
     color: blue;
     margin-left: 50px;
